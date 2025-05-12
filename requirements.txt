@@ -1,0 +1,13 @@
+dash>=2.14.0
+Dash-bootstrap-components>=1.5.0
+jupyter>=1.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+numpy-financial>=1.0.0
+pandas>=1.5.0
+plotly>=5.18.0
+pvlib>=0.9.0
+PySAM>=2.2.0
+scipy>=1.7.0
+seaborn>=0.11.0
+windrose>=1.8.0
